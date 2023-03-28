@@ -1,0 +1,138 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="resume.css">
+</head>
+
+<body>
+  	 <div class="full"> 
+		<div class="left">
+			<div class="image">
+<img src="https://i.ibb.co/kMWKvDG/1662124187806.jpg" width="170" height="200">
+			</div>
+			<div class="Contact">
+				<u><h2>Contact Details</h2></u>
+				<p><b>Email id: rahul.raw2003@gmail.com</p>
+				<p><b>Mobile Number :</br> +91 7906515658</p>
+			</div>
+			<div class="Skills">
+				<u><h2>Skills</h2></u>
+				<ul>
+					<li><b>Python, HTML, Basic SQL</b></li>
+					<li><b>MS-Excel, Word, Powerpoint</b></li>
+					<li><b>Adobe premiere pro</b></li>
+                              <li><b>Tableau, Power BI</b></li>
+<a href=https://github.com/pabloeksobaar> github </a>
+				</ul>
+			</div>
+			<div class="Languages">
+				<u><h2>Languages</h2></u>
+				<ul>
+					<li>English</li>
+					<li>Hindi</li>
+				</ul><br>
+			</div>
+			<div class="Hobbies">
+				<u><h2>Hobbies</h2></u>
+				<ul>
+					<li>Playing football</li>
+                              <li>Reading</li>
+					<li>Swimming</li>
+				</ul>
+
+			</div>
+	</div>
+		<div class="right">
+			<div class="name">
+				<u><h1>Rahul Rawat</h1></u>
+			</div>
+			<div class="title">
+				<p>BBA Analytics and Big Data sophomore</p>
+			</div>
+			<div class="Summary">
+				<u><h2>Summary</h2></u>
+				<p>I intend to secure a career opportunity to fully utilize my training and skills, while making a significant contribution to
+the success of the company.
+
+				</p>
+			</div>
+
+<div class="Licenses & certifications">
+<u><h2>Licenses & certifications</h2></u>
+<p>The Complete Foundation Stock Trading Course - Udemy</p>
+<a href= https://www.udemy.com/certificate/UC-848c8ccc-d2f7-4d12-be83-34e02ee122f2/> The Complete Foundation Stock Trading Course </a>
+<p>Trading Basics - Coursera</p>
+<a href= "https://www.coursera.org/account/accomplishments/certificate/J8JAT2FSY9PK"> Trading Basics</a>
+<p>Stock Market and Finance - MyCaptain</p>
+<p>Business Analytics - MyCaptain</p>
+</br>
+
+			<div class="Experience">
+				<u><h2>Experience</h2></u>
+				<h3>Viral Fisson - Campus Ambassador</h3>
+				<p>October 2022 to Present</p>
+				<h3>Raupya Finance Club of Upes - </br>Trader, Investor and Content Writer</h3>
+                        <p>March 2023 - Present</p>
+				<h3>Doon Differently Able Trust - Social Service Worker</h3>
+				<p>June 2022 to July 2022 <a href=https://ibb.co/tz6t4XB> Certificate </a> <a href=https://ibb.co/tm0f4Ts> LOR</a> </p>
+				<h3>Flat and Flatmates Solutions - Marketing Intern</h3>
+                        <p>June 2022</p>
+				<h3>Robocom International - Marketing Intern</h3>
+                        <p>August 2021 <a href=https://ibb.co/N7BRdf3> Certificate </a> </p>
+			</div>
+			<div class="Education">
+				<u><h2>Education</h2></u>
+				<table border ="7", cellspacing ="2">
+					<tr>
+						<th>University/School </th>
+						<th>Passing year </th>
+                                    <th>Qualification/Degree</th>
+                                    <th>Board</th>
+						<th>Percentage/CGPA</th>
+					</tr>
+					<tr>
+						<td>University of petroleum and energy studies</td>
+						<td>2024</td>
+						<td>Bachelor's in Business Administration</td>
+                                    <td>UPES</td>
+                                    <td>-</td>
+					</tr>
+					<tr>
+						<td>St. Joseph's Academy</td>
+						<td>2021</td>
+						<td>Class XII</td>
+                                    <td>CISCE</td>
+                                    <td>88.75%</td>
+					</tr>
+                              <tr>
+						<td>St. Joseph's Academy</td>
+						<td>2019</td>
+						<td>Class X</td>
+                                    <td>ICSE</td>
+                                    <td>92.2%</td>
+					</tr>
+				</table>
+			</div>
+			<div class="project">
+				<ul>
+					<li>
+						<h2>Project1</h2>
+						<p>This project is based on html
+						& used React</p>
+					</li>
+					<li>
+						<h2>Project2</h2>
+						<p>This project is based on html
+						& used React</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>
